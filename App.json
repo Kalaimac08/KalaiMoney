@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Kalai Money",
+    "slug": "kalai-money",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#6C3FC5"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#6C3FC5"
+      },
+      "package": "com.kalaimoney.app",
+      "versionCode": 1
+    },
+    "extra": {
+      "eas": {
+        "projectId": "your-project-id"
+      }
+    }
+  }
+}
